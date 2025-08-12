@@ -1,4 +1,4 @@
-# Kaggle_Chinook_Database 
+# Kaggle_Chinook_Database
 
 ## Overview
 This project applies SQL queries to analyze product sales stored in a database. The goal is to uncover best-selling products, sales patterns over time, and key customer insights.
